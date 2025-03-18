@@ -31,6 +31,8 @@ def error_message(message):
     print(f"ERROR: {message}.")
     time.sleep(2)
 
+''' FUNCTIONS: MAIN '''
+
 # FUNCTION: Display a virtual calculator
 def display_calculator(expression):
     # Rows 1-3
@@ -59,7 +61,6 @@ def display_calculator(expression):
     # Row 8
     display_format(19)
 
-''' FUNCTIONS: MAIN '''
 # FUNCTION: Display the main menu for the calculator program
 def calculator_menu():
     while True:

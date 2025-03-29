@@ -1,4 +1,4 @@
-# [ PROJECT DETAILS ]
+**[ PROJECT DETAILS ]**
 **Project:** ViCalc (Virtual Calculator)  
 **Project Code:** 0006  
 **Author:** dreyyan  
@@ -8,15 +8,15 @@
 
 ---
 
-## [ DESCRIPTION ]
+**[ DESCRIPTION ]**
 **ViCalc** is a Python CLI-based virtual calculator, capable of performing basic arithmetic operations (+, -, *, /) using a simple yet intuitive interface.  
 
 ---
 
-## [ INSTRUCTIONS ]
+**[ INSTRUCTIONS ]**
 1. Set launch size (command prompt) to **38 x 10**.  
 
 ---
 
-## [ DEVELOPER'S NOTES ]
+**[ DEVELOPER'S NOTES ]**
 - The Python executable (.exe) was created using **PyInstaller**.

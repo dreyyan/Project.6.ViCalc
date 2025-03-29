@@ -1,4 +1,4 @@
-# [ PROJECT DETAILS ]  
+# [ PROJECT DETAILS ]
 **Project:** ViCalc (Virtual Calculator)  
 **Project Code:** 0006  
 **Author:** dreyyan  

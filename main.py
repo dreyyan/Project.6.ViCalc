@@ -1,11 +1,3 @@
-# # # # # # # # # # # # # # # # # # # # # # # #
-#        Project: ViCalc(Virtual Calculator)  #
-#         Author: dreyyan                     #
-#       Language: Python                      #
-#   Date Started: 03/15/2025                  #
-#  Date Finished: 03/16/2025                  #
-# # # # # # # # # # # # # # # # # # # # # # # #
-
 ''' IMPORTS '''
 import os, time, msvcrt
 
